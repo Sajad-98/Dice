@@ -1,1 +1,1 @@
-#Dice
+./index.html
